@@ -1,1 +1,0 @@
-{"version":3,"sources":["<no source>","style.pcss"],"names":[],"mappings":"AAAA,WAAA,mBAAA,kBAAA,gBAAA,wSAAA,WAAA,mBAAA,kBAAA,gBAAA,wSAAA,WAAA,mBAAA,kBAAA,gBAAA,wSAAA;;ACAA,2EAAc,CAAd,iBAAA,qBAAc,CAAd,sBAAc","file":"style.3269e044.css","sourceRoot":"../src","sourcesContent":[null,"@tailwind base;\n@tailwind components;\n@tailwind utilities;\n\n@typography;"]}
