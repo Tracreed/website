@@ -1,0 +1,2 @@
+import{i as t}from"./main.js";function n(n){let o;return{c(){o=t.element("div"),o.innerHTML='<h1 class="text-2xl font-bold">My Dashboard</h1>',t.attr(o,"class","container mx-auto")},m(n,e){t.insert(n,o,e)},p:t.noop,i:t.noop,o:t.noop,d(n){n&&t.detach(o)}}}function o(t){return[]}class e extends t.SvelteComponent{constructor(e){super(),t.init(this,e,o,n,t.safe_not_equal,{})}}export default e;
+//# sourceMappingURL=dashboard-04cb9bcd.js.map
